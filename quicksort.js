@@ -22,7 +22,8 @@ function quick_Sort(origArray) {
 	}
 }
 
-var myArray = [3, 0, 2, 5, -1, 4, 1 ];
+//var myArray = [3, 0, 2, 5, -1, 4, 1 ];
+var myArray = [22,-3,76,-78,56,5,0.5 ];
 
 console.log("Original array: " + myArray);
 var sortedArray = quick_Sort(myArray);

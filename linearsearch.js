@@ -6,7 +6,7 @@ function linearSearch(arr, elToFind) {
       }
     } return null;
   }
-  const array = [1, 2, 3, 4, 5, 6]
-  console.log(linearSearch(array, "3")); // returns 2
+  const array = [43,7,1,33,98,100,32]
+  console.log(linearSearch(array, "7")); // returns 2
 
   
